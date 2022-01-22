@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DICKSON-ENEH
 - 👀 I’m interested in software development/engineering
-- 🌱 I’m currently learning software development/engineering, cloud engineering, data structure/algorithm
-- 💞️ I’m looking to collaborate on robust tech bodies to provide and proffer global solutions
+- 🌱 I’m currently a  Fullstack Software Developer/Engineer
+- 💞️ I’m looking to collaborate on robust tech bodies interested in providing and proffering global solutions
 - 📫 How to reach me dickseneh99@gmail.com
 
 <!---
